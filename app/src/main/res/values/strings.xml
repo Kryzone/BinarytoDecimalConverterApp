@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Binary2Decimal</string>
+    <string name="edittext_hint"><font size="28">Enter Binary</font></string>
+</resources>
