@@ -1,8 +1,8 @@
 # BinarytoDecimalConverterApp
 Binary to Decimal Converter
 ***Features:***
-+ **AdFree**, No ads whatsoever
-+ It can convert 8 digit binary to decimal
++ Users can't enter anything other than 0 and 1.
++ App can convert 8 digit binary to decimal
 
 ***Screenshots:***
 <div id="header" align="left">
