@@ -2,7 +2,7 @@
 Binary to Decimal Converter
 ***Features:***
 + Users can't enter anything other than 0 and 1.
-+ App can convert 8 digit binary to decimal
++ App can convert binary to decimal (maximum 8 digits).
 
 ***Screenshots:***
 <div id="header" align="left">
